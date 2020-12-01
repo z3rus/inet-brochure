@@ -452,9 +452,9 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 Если вы используете Windows, мы рекомендуем установить один из бесплатных антивирусов:
 
-- https://www.kaspersky.ru/free-antivirus
-- https://free.drweb.ru/
-- https://www.avast.ru/free-antivirus-download#pc
+- Bitdefender
+Например, Bitdefender Free - https://bitdefender.ru/dlya-doma/antivirus-free-edition/
+- Штатный защитник Windows (особенно новые)
 
 <a name="update"><h2>9. Процедура обновления</h2></a>
 
