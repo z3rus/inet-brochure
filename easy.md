@@ -452,7 +452,7 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
 Если вы используете Windows, мы рекомендуем установить один из бесплатных антивирусов:
 
-- Bitdefender
+- Bitdefender <br>
 Например, Bitdefender Free - https://bitdefender.ru/dlya-doma/antivirus-free-edition/
 - Штатный защитник Windows (особенно новые)
 
